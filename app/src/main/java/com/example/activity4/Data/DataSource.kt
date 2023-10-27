@@ -5,11 +5,9 @@ object DataSource {
     val jenis = listOf(
         R.string.pria,
         R.string.wanita,
-
     )
-
     val status = listOf(
-        "Belum Menikah",
-        "Menikah"
+        R.string.unmerrige,
+        R.string.merrige
     )
 }
