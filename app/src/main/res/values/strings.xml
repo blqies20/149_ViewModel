@@ -3,4 +3,6 @@
     <string name="submit">Submit</string>
     <string name="pria">Laki-Laki</string>
     <string name="wanita">Perempuan</string>
+    <string name="unmerrige">Belum Menikah</string>
+    <string name="menikah">Menikah</string>
 </resources>
